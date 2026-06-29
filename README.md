@@ -7,6 +7,7 @@ This repository contains the final lab assignment files for the "Excel Basics fo
 -Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx
 
 🎯 What I practiced:
+
  ✅ Cleaning and formatting data into structured tables  
  ✅ Creating pivot tables to summarize data  
  ✅ Using slicers, filters, and timelines for interactive analysis
